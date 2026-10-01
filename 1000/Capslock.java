@@ -1,4 +1,4 @@
-// https://codeforces.com/problemset/problem/131/A
+// Question Link : https://codeforces.com/problemset/problem/131/A
 
 import java.util.*;
 
