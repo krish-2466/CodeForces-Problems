@@ -16,8 +16,9 @@
 // After reaching the destination, we update j to a.
 // We add the time required for every task to the sum variable.
 // Finally, sum gives the total time required to complete all tasks.
+
 import java.util.*;
-public class XeniaAndRingroad {
+public class Question6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

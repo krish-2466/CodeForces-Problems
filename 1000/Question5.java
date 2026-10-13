@@ -23,7 +23,7 @@
 // Since cell 4 is reachable, the answer is "YES".
 // The solution works because from each cell there is only one possible next cell, so we only need to simulate the path starting from cell 1.
 import java.util.*;
-public class NewYearTransportation {
+public class Question5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

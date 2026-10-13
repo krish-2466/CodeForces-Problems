@@ -19,8 +19,9 @@
 //     arr[i] >= arr[i - 1]
 // If all the conditions are satisfied, we print the constructed array.
 // The min-heap ensures that the smaller elements are placed at odd positions first, while the remaining elements are used for the even positions.
+
 import java.util.*;
-public class Zsort {
+public class Question8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -58,5 +59,6 @@ public class Zsort {
                 System.out.print(arr[i]);
             }
         }
+        sc.close();
     }
 }

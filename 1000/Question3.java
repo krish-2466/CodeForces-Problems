@@ -17,8 +17,10 @@
 //     55555555555555555500
 // The sum of the digits is 18 * 5 = 90, which is divisible by 9,
 // and the number ends with 0, so it is divisible by 90.
+
+
 import java.util.*;
-public class JeffandDigits {
+public class Question3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

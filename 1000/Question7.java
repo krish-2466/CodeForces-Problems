@@ -12,8 +12,9 @@
 // a = 4, b = 2
 // a = 3, b = 1
 // The solution is mainly based on observation, and the code prints the required n - 1 operations directly.
+
 import java.util.*;
-public class NumbersOnWhiteboard {
+public class Question7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();

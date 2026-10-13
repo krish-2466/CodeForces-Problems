@@ -12,8 +12,9 @@
 // calculates the number of zeros after the first 1.
 // If this value is greater than 6, it means there are at least 6 zeros after the first 1, so the number is divisible by 64 and we print "YES".
 // Otherwise, we print "NO".
+
 import java.util.*;
-public class DivDotSixtyFour {
+public class Question10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
